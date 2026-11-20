@@ -31,10 +31,6 @@ Java (NetBeans, Swing), PostgreSQL y JDBC. La lógica de negocio importante est�
 3. Define la contraseña de la base como variable de entorno: `DB_PASS`.
 4. Abre el proyecto en NetBeans, agrega el driver JDBC de PostgreSQL a las librerías y ejecuta `main.main`.
 
-## Capturas
-
-_(Agrega aquí capturas del login, la gestión de préstamos y un reporte.)_
-
 ## Autor
 
-[Tu nombre] · Estudiante de Ingeniería de Sistemas y Computación, USAT.
+Carlos Daniel Primo Vilchez. Ingeniería de Sistemas y Computación, USAT.
